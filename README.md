@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development using **Java, 🌱 Spring Framework, HTML, CSS, JavaScript**.
 - 🔭 Currently I would like to study **Vue.js, Angular**.
 - 📌 _I want to collaborate in interesting projects, I am not afraid to go beyond template development so I am ready to study something new._
-- 💬 ***Ask me:***
+- 💬 ***Contact me:***
    - [<img alt="alt_text" width="40px" height="40px" src="/linkedin-logo-white-png-image-9.png" />](https://www.linkedin.com/in/sergeyvakhitov/ "Sergey's linkedin profile")
  [<img alt="alt_text" width="65px" height="40px" src="/tg.png" />](https://t.me/AwesomeOs "Sergey's telegram msgr")
 
